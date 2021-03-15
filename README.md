@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Projects related to Android App Development
 - 📫 How to reach me: rushilkothari25.rk@gmail.com
-- 😄 Pronouns: He\Him
-- ⚡ Fun fact: I am an Otaku
+- ⚡ Hobbies: Anime, Football and Music.
 
 ### Connect with me:
 
