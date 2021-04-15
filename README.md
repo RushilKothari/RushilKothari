@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Projects related to Android
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and BlockChain
 - 👯 I’m looking to collaborate on Projects related to Android App Development
 - 📫 How to reach me: rushilkothari25.rk@gmail.com
 - ⚡ Hobbies: Anime, Football and Music.
