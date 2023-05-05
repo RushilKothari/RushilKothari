@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Projects in Java
-- 🌱 I’m currently learning Flutter and BlockChain
-- 👯 I’m looking to collaborate on Projects related to Android App Development, Blockchain Development.
+- 🔭 I’m currently working on Projects in Swift
+- 🌱 I’m currently learning iOS Development
+- 👯 I’m looking to collaborate on Projects related to Android App Development, iOS App Development.
 - 📫 How to reach me: rushilkothari25.rk@gmail.com
 - ⚡ Hobbies: Anime, Football and Music.
 
