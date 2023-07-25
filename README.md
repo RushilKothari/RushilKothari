@@ -23,3 +23,9 @@
 
 </p>
 
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="40px">&nbsp; GitHub Analytics</h3>
+<p align="left">
+<a href="https://github.com/RushilKothari">
+  <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=RushilKothari&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
+</a>
+</p>
