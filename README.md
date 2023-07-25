@@ -29,3 +29,7 @@
   <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=RushilKothari&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
 </a>
 </p>
+
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="40px">&nbsp; GitHub Streak</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RushilKothari&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
