@@ -29,4 +29,5 @@
 </a>
 </p>
 
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="40px">&nbsp; GitHub Streak</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushilkothari&theme=dark" alt="rushilkothari" /></p>
