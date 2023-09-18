@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there, I am Rushil! 👋
 
 - 🔭 I’m currently working on Projects in Swift
 - 🌱 I’m currently learning iOS Development
